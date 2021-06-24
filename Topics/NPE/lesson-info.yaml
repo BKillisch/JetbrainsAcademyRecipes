@@ -1,0 +1,4 @@
+content:
+- Theory
+- Avoid NPE
+- Return empty string when argument is null

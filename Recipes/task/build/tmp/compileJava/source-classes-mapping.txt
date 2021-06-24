@@ -1,0 +1,20 @@
+recipes/RecipeUserDetailsService.java
+ recipes.RecipeUserDetailsService
+recipes/RecipesApplication.java
+ recipes.RecipesApplication
+recipes/IDWrapper.java
+ recipes.IDWrapper
+recipes/User.java
+ recipes.User
+recipes/RecipeRepository.java
+ recipes.RecipeRepository
+recipes/RecipeUserDetails.java
+ recipes.RecipeUserDetails
+recipes/Recipe.java
+ recipes.Recipe
+recipes/UserRepository.java
+ recipes.UserRepository
+recipes/SecurityConfiguration.java
+ recipes.SecurityConfiguration
+recipes/RecipeController.java
+ recipes.RecipeController

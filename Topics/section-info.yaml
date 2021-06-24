@@ -1,0 +1,36 @@
+content:
+- NPE
+- Switch statement
+- Overloading
+- Multiple constructors
+- The keyword super
+- The while and do-while loops
+- Static members
+- Hiding and overriding
+- Interface
+- Introduction to generic programming
+- Generics and Object
+- Conditional statement
+- The Collections Framework overview
+- ArrayList
+- The List interface
+- Types and variables
+- Array
+- The Set interface
+- The Map interface
+- HashMap
+- Default methods
+- Anonymous classes
+- Lambda expressions
+- Method references
+- Functional interfaces
+- Regexes in programs
+- Standard functional interfaces
+- Optional
+- LocalDate
+- LocalTime
+- LocalDateTime
+- Comparing dates and time
+- The utility class Collections
+- Abstract class
+- Builder
